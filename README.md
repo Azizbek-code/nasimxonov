@@ -1,13 +1,13 @@
 <img src="https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif" width="100%" style="border-radius: 5px;" />
 
-<h1 align="center">Hi 👋, I'm Nasimxonov Saidnurmuhammadulloxon</h1>
+<h1 align="center">Hi 👋, I'm Azizbek Uzgenboyev</h1>
 
-<h3 align="center">A passionate C and Pyhton developer from Uzbekistan</h3>
+<h3 align="center">A passionate Flutter and Fullstack developer from Uzbekistan</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdul-rozzaq&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-rozzaq" />&ThickSpace;<a href="https://wakatime.com/@a3e83616-791d-4a3a-a9dc-5d60098f70af"><img src="https://wakatime.com/badge/user/a3e83616-791d-4a3a-a9dc-5d60098f70af.svg" alt="Total time coded since Sep 2 2023" /></a></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdul-rozzaq&theme=onedark" alt="abdul-rozzaq" /></a> </p>
 - 🔭 I’m currently working on **None**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **C and Python**
 
@@ -20,7 +20,7 @@
 <a href="https://twitter.com/nasimxonov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nasimxonov" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/saidnurmuhammad-n-30b064318" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saidnurmuhammad-n-30b064318" height="30" width="40" /></a>
 <a href="https://fb.com/id=61558579105555&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="id=61558579105555&mibextid=zbwkwl" height="30" width="40" /></a>
-<a href="https://instagram.com/nasimxonov_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nasimxonov_16" height="30" width="40" /></a>
+<a href="https://instagram.com/_az1.z_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Azizbek-code" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/saidnurmuhammadulloxon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="saidnurmuhammadulloxon" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nasimxonovs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nasimxonovs" height="30" width="40" /></a>
 </p>
